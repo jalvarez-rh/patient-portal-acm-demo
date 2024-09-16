@@ -21,7 +21,7 @@ spec:
             - name: DATABASE_SERVICE_HOST
               value: database
             - name: DATABASE_SERVICE_PORT
-              value: "5432"
+              value: "5440"
             - name: PAYMENT_PROCESSOR_SERVICE_HOST
               value: payment-processor
             - name: PAYMENT_PROCESSOR_SERVICE_PORT
